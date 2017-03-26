@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\HappyDev\HappyDev\bin\Debug\HappyDev.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\HappyDev\HappyDev\bin\Debug\HappyDev.exe
+c:\users\admin\documents\visual studio 2015\Projects\HappyDev\HappyDev\bin\Debug\HappyDev.pdb
+c:\users\admin\documents\visual studio 2015\Projects\HappyDev\HappyDev\obj\Debug\HappyDev.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\HappyDev\HappyDev\obj\Debug\HappyDev.exe
+c:\users\admin\documents\visual studio 2015\Projects\HappyDev\HappyDev\obj\Debug\HappyDev.pdb
